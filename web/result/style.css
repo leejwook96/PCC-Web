@@ -1,0 +1,13 @@
+a:link, a:visited {
+  text-decoration: none;
+  margin-bottom: 1px;
+}
+
+header>h1>a:hover {
+  color: black;
+}
+
+header>h1>a {
+  color: #696969;
+  font-size: 30px;
+}
