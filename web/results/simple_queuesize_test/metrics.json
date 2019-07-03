@@ -1,0 +1,85 @@
+{
+    "Metrics": {
+        "simple_queuesize_test": {
+            "vivace": [
+                {
+                    "Link Utilization": 0.09019995433426996,
+                    "95 Queueing delay": 1.3989631159581357,
+                    "Avg Loss": 0.0,
+                    "Overall": 6.759036524868495,
+                    "name": "simple.1000pkt"
+                },
+                {
+                    "Link Utilization": 0.09112000867567532,
+                    "95 Queueing delay": 0.31895391221170755,
+                    "Avg Loss": 0.01881338120594059,
+                    "Overall": 6.804186830403814,
+                    "name": "simple.2pkt"
+                },
+                {
+                    "Link Utilization": 0.08910463988916777,
+                    "95 Queueing delay": 0.4691476905391241,
+                    "Avg Loss": 0.014692655970436156,
+                    "Overall": 6.776879262331563,
+                    "name": "simple.3pkt"
+                },
+                {
+                    "Link Utilization": 0.08936610828640441,
+                    "95 Queueing delay": 0.44833326416481967,
+                    "Avg Loss": 0.012882181457281797,
+                    "Overall": 6.780492727167822,
+                    "name": "simple.4pkt"
+                },
+                {
+                    "Link Utilization": 0.08769134750412302,
+                    "95 Queueing delay": 3.3648898605186304,
+                    "Avg Loss": 0.0002716366159925008,
+                    "Overall": 6.670101563707196,
+                    "name": "simple.50pkt"
+                },
+                {
+                    "Link Utilization": 0.08924212750552761,
+                    "95 Queueing delay": 0.15445629260999283,
+                    "Avg Loss": 0.01921462640933655,
+                    "Overall": 6.788802967886569,
+                    "name": "simple.1pkt"
+                },
+                {
+                    "Link Utilization": 0.09014046979379582,
+                    "95 Queueing delay": 1.7691589586155096,
+                    "Avg Loss": 0.001023903083471154,
+                    "Overall": 6.746655728614527,
+                    "name": "simple.20pkt"
+                },
+                {
+                    "Link Utilization": 0.08789654487924145,
+                    "95 Queueing delay": 1.3673890866145086,
+                    "Avg Loss": 0.005370890123791496,
+                    "Overall": 6.73417418205914,
+                    "name": "simple.10pkt"
+                },
+                {
+                    "Link Utilization": 0.09026192015010985,
+                    "95 Queueing delay": 0.54685445868882,
+                    "Avg Loss": 0.01171986079554619,
+                    "Overall": 6.787236425765655,
+                    "name": "simple.5pkt"
+                },
+                {
+                    "Link Utilization": 0.08829065464469361,
+                    "95 Queueing delay": 7.264805879298066,
+                    "Avg Loss": 0.0,
+                    "Overall": 6.566367401127871,
+                    "name": "simple.100pkt"
+                },
+                {
+                    "Link Utilization": 0.08808904323331782,
+                    "95 Queueing delay": 3.655666873125746,
+                    "Avg Loss": 0.0,
+                    "Overall": 6.665949184232763,
+                    "name": "simple.10000pkt"
+                }
+            ]
+        }
+    }
+}

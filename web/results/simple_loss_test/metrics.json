@@ -1,0 +1,113 @@
+{
+    "Metrics": {
+        "simple_loss_test": {
+            "vivace": [
+                {
+                    "Link Utilization": 0.07860587387830936,
+                    "95 Queueing delay": 3.265155092647909,
+                    "Avg Loss": 0.009418495215305406,
+                    "Overall": 6.563718447055109,
+                    "name": "simple.0.01loss"
+                },
+                {
+                    "Link Utilization": 0.0034839453732197793,
+                    "95 Queueing delay": 0.14396372549019887,
+                    "Avg Loss": 0.1454847479607784,
+                    "Overall": 3.5459631591760163,
+                    "name": "simple.0.15loss"
+                },
+                {
+                    "Link Utilization": 0.004847105962933189,
+                    "95 Queueing delay": 0.14590959383753344,
+                    "Avg Loss": 0.09930957704454331,
+                    "Overall": 3.8761150473905976,
+                    "name": "simple.0.1loss"
+                },
+                {
+                    "Link Utilization": 0.05977868437072331,
+                    "95 Queueing delay": 0.40591171752253885,
+                    "Avg Loss": 0.018988198943078922,
+                    "Overall": 6.379794569521139,
+                    "name": "simple.0.02loss"
+                },
+                {
+                    "Link Utilization": 0.009802111130612237,
+                    "95 Queueing delay": 0.16275271241694408,
+                    "Avg Loss": 0.029141255638377304,
+                    "Overall": 4.579772449343419,
+                    "name": "simple.0.03loss"
+                },
+                {
+                    "Link Utilization": 0.006490805479030937,
+                    "95 Queueing delay": 0.1536368697479027,
+                    "Avg Loss": 0.05725105190961279,
+                    "Overall": 4.167863566700919,
+                    "name": "simple.0.06loss"
+                },
+                {
+                    "Link Utilization": 0.009598517460198287,
+                    "95 Queueing delay": 0.13813398166905339,
+                    "Avg Loss": 0.04080546321018966,
+                    "Overall": 4.559599850382987,
+                    "name": "simple.0.04loss"
+                },
+                {
+                    "Link Utilization": 0.008329167427711432,
+                    "95 Queueing delay": 0.1403685574229705,
+                    "Avg Loss": 0.04971799624522885,
+                    "Overall": 4.417680555879497,
+                    "name": "simple.0.05loss"
+                },
+                {
+                    "Link Utilization": 0.01936294823954697,
+                    "95 Queueing delay": 0.1153217086834708,
+                    "Avg Loss": 0.024702372738849166,
+                    "Overall": 5.262109760899837,
+                    "name": "simple.0.025loss"
+                },
+                {
+                    "Link Utilization": 0.08377385097530848,
+                    "95 Queueing delay": 2.700245739224897,
+                    "Avg Loss": 0.00507699790405704,
+                    "Overall": 6.64452079974594,
+                    "name": "simple.0.005loss"
+                },
+                {
+                    "Link Utilization": 0.08748990542500691,
+                    "95 Queueing delay": 4.8043298574704,
+                    "Avg Loss": 0.000985464339048504,
+                    "Overall": 6.625564094560753,
+                    "name": "simple.0.001loss"
+                },
+                {
+                    "Link Utilization": 0.0525430637355764,
+                    "95 Queueing delay": 1.05616091283445,
+                    "Avg Loss": 0.015088344835510125,
+                    "Overall": 6.229618361863167,
+                    "name": "simple.0.015loss"
+                },
+                {
+                    "Link Utilization": 4.8249896855032024e-05,
+                    "95 Queueing delay": -15.861238235294119,
+                    "Avg Loss": 0.14524328249818444,
+                    "Overall": 0.02350079878459017,
+                    "name": "simple.0.20loss"
+                },
+                {
+                    "Link Utilization": 0.00464322702575215,
+                    "95 Queueing delay": 0.15538711484594003,
+                    "Avg Loss": 0.08412613498344307,
+                    "Overall": 3.8328284945267455,
+                    "name": "simple.0.08loss"
+                },
+                {
+                    "Link Utilization": 0.08890739998589317,
+                    "95 Queueing delay": 3.925551776352897,
+                    "Avg Loss": 0.00010604562108362608,
+                    "Overall": 6.667209382965511,
+                    "name": "simple.0.0001loss"
+                }
+            ]
+        }
+    }
+}

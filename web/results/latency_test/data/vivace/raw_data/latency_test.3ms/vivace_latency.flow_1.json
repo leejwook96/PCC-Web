@@ -1,0 +1,1234 @@
+{
+    "Events": [
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 1.537748484848485,
+            "Acks Received": 164.0,
+            "Target Rate": 1340.0087834870567,
+            "Rtt Inflation": 0.0,
+            "Throughput": 1340.0087834870567,
+            "Packets Sent": 166.0,
+            "Time": "1554840987022.672"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 2.9042787878787877,
+            "Acks Received": 147.0,
+            "Target Rate": 2006.4997804127865,
+            "Rtt Inflation": 0.0,
+            "Throughput": 2006.4997804127865,
+            "Packets Sent": 183.0,
+            "Time": "1554840988024.552"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 6.288615151515152,
+            "Acks Received": 176.0,
+            "Target Rate": 1684.768634966232,
+            "Rtt Inflation": 0.0,
+            "Throughput": 1684.768634966232,
+            "Packets Sent": 154.0,
+            "Time": "1554840989026.4321"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 1.876,
+            "Acks Received": 169.0,
+            "Target Rate": 1754.2380324988685,
+            "Rtt Inflation": 0.0,
+            "Throughput": 1754.2380324988685,
+            "Packets Sent": 161.0,
+            "Time": "1554840990028.312"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 7.16565762267194,
+            "Acks Received": 2101.0,
+            "Target Rate": 22954.765041721123,
+            "Rtt Inflation": -0.03934503134107801,
+            "Throughput": 22954.765041721123,
+            "Packets Sent": 2099.0,
+            "Time": "1554840991030.1921"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.078515889960209,
+            "Acks Received": 2376.0,
+            "Target Rate": 25997.269134027523,
+            "Rtt Inflation": -0.03909050984149723,
+            "Throughput": 25997.269134027523,
+            "Packets Sent": 2378.0,
+            "Time": "1554840992032.072"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 13.452405856937675,
+            "Acks Received": 2506.0,
+            "Target Rate": 28311.28678085146,
+            "Rtt Inflation": -0.012568371461651852,
+            "Throughput": 28311.28678085146,
+            "Packets Sent": 2577.0,
+            "Time": "1554840993033.9521"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 7.484267304732304,
+            "Acks Received": 2355.0,
+            "Target Rate": 24910.703876711304,
+            "Rtt Inflation": -0.0427436419531273,
+            "Throughput": 24910.703876711304,
+            "Packets Sent": 2283.0,
+            "Time": "1554840994035.832"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.69404182572478,
+            "Acks Received": 2283.0,
+            "Target Rate": 24921.49958078764,
+            "Rtt Inflation": -0.005291052820696991,
+            "Throughput": 24921.49958078764,
+            "Packets Sent": 2283.0,
+            "Time": "1554840995037.7122"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 6.518501654744543,
+            "Acks Received": 2372.0,
+            "Target Rate": 25958.110751786146,
+            "Rtt Inflation": -0.010004192118816431,
+            "Throughput": 25958.110751786146,
+            "Packets Sent": 2372.0,
+            "Time": "1554840996039.592"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 8.21642353942354,
+            "Acks Received": 2342.0,
+            "Target Rate": 25583.806443885,
+            "Rtt Inflation": -0.02702818700842364,
+            "Throughput": 25583.806443885,
+            "Packets Sent": 2341.0,
+            "Time": "1554840997041.4722"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 9.44804064010064,
+            "Acks Received": 2503.0,
+            "Target Rate": 27512.72407873146,
+            "Rtt Inflation": -0.02192478141094699,
+            "Throughput": 27512.72407873146,
+            "Packets Sent": 2509.0,
+            "Time": "1554840998043.352"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.5995560416435417,
+            "Acks Received": 2248.0,
+            "Target Rate": 24622.030582504416,
+            "Rtt Inflation": -0.020815866171596996,
+            "Throughput": 24622.030582504416,
+            "Packets Sent": 2255.0,
+            "Time": "1554840999045.2322"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.2292587181337185,
+            "Acks Received": 2370.0,
+            "Target Rate": 25767.9402722876,
+            "Rtt Inflation": -0.0157633648740365,
+            "Throughput": 25767.9402722876,
+            "Packets Sent": 2358.0,
+            "Time": "1554841000047.112"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 7.208152037295064,
+            "Acks Received": 2370.0,
+            "Target Rate": 25916.333293407897,
+            "Rtt Inflation": -0.011732942068910228,
+            "Throughput": 25916.333293407897,
+            "Packets Sent": 2370.0,
+            "Time": "1554841001048.9922"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.453771313131313,
+            "Acks Received": 2512.0,
+            "Target Rate": 27525.531999839775,
+            "Rtt Inflation": -0.007742444204894655,
+            "Throughput": 27525.531999839775,
+            "Packets Sent": 2512.0,
+            "Time": "1554841002050.872"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.471025229383411,
+            "Acks Received": 2378.0,
+            "Target Rate": 26071.433704634783,
+            "Rtt Inflation": -0.013761129077334351,
+            "Throughput": 26071.433704634783,
+            "Packets Sent": 2380.0,
+            "Time": "1554841003052.7522"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 8.325167498797498,
+            "Acks Received": 2517.0,
+            "Target Rate": 27756.936958517457,
+            "Rtt Inflation": -0.013585459336447236,
+            "Throughput": 27756.936958517457,
+            "Packets Sent": 2531.0,
+            "Time": "1554841004054.632"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 10.267990083428886,
+            "Acks Received": 2175.0,
+            "Target Rate": 24265.90010779688,
+            "Rtt Inflation": 0.00041621751107917516,
+            "Throughput": 24265.90010779688,
+            "Packets Sent": 2223.0,
+            "Time": "1554841005056.5122"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 27.248793800359568,
+            "Acks Received": 2592.0,
+            "Target Rate": 27785.906495787385,
+            "Rtt Inflation": -0.04565716453068147,
+            "Throughput": 27785.906495787385,
+            "Packets Sent": 2530.0,
+            "Time": "1554841006058.392"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 5.051843609955119,
+            "Acks Received": 2416.0,
+            "Target Rate": 26418.109953287312,
+            "Rtt Inflation": -0.02000638799057734,
+            "Throughput": 26418.109953287312,
+            "Packets Sent": 2414.0,
+            "Time": "1554841007060.2722"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.8914167989417994,
+            "Acks Received": 2093.0,
+            "Target Rate": 22806.372020600833,
+            "Rtt Inflation": -0.004991615762366659,
+            "Throughput": 22806.372020600833,
+            "Packets Sent": 2099.0,
+            "Time": "1554841008062.152"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 20.372853141849735,
+            "Acks Received": 2518.0,
+            "Target Rate": 28764.578592246027,
+            "Rtt Inflation": 0.019218868527168597,
+            "Throughput": 28764.578592246027,
+            "Packets Sent": 2609.0,
+            "Time": "1554841009064.0322"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 29.77347654814882,
+            "Acks Received": 2456.0,
+            "Target Rate": 25757.81530722193,
+            "Rtt Inflation": -0.04466303349702473,
+            "Throughput": 25757.81530722193,
+            "Packets Sent": 2359.0,
+            "Time": "1554841010065.912"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 5.344473236485736,
+            "Acks Received": 2417.0,
+            "Target Rate": 26601.57304267925,
+            "Rtt Inflation": -0.006991855312013285,
+            "Throughput": 26601.57304267925,
+            "Packets Sent": 2430.0,
+            "Time": "1554841011067.7922"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.060994249857886,
+            "Acks Received": 2475.0,
+            "Target Rate": 26921.898830198712,
+            "Rtt Inflation": -0.015335169880624135,
+            "Throughput": 26921.898830198712,
+            "Packets Sent": 2461.0,
+            "Time": "1554841012069.672"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.226712891796756,
+            "Acks Received": 2389.0,
+            "Target Rate": 26121.994650057393,
+            "Rtt Inflation": -0.03589950892322366,
+            "Throughput": 26121.994650057393,
+            "Packets Sent": 2391.0,
+            "Time": "1554841013071.552"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 16.351134462919237,
+            "Acks Received": 2491.0,
+            "Target Rate": 27445.33077813658,
+            "Rtt Inflation": -0.01909410308619758,
+            "Throughput": 27445.33077813658,
+            "Packets Sent": 2501.0,
+            "Time": "1554841014073.4321"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.7042194937469937,
+            "Acks Received": 2483.0,
+            "Target Rate": 27116.157623666986,
+            "Rtt Inflation": -0.012042360362518233,
+            "Throughput": 27116.157623666986,
+            "Packets Sent": 2477.0,
+            "Time": "1554841015075.312"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.88877503968254,
+            "Acks Received": 2509.0,
+            "Target Rate": 27489.120453546806,
+            "Rtt Inflation": -0.007827284704754927,
+            "Throughput": 27489.120453546806,
+            "Packets Sent": 2506.0,
+            "Time": "1554841016077.1921"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.7801650777253046,
+            "Acks Received": 2544.0,
+            "Target Rate": 27934.97025591834,
+            "Rtt Inflation": -0.0002205852996366837,
+            "Throughput": 27934.97025591834,
+            "Packets Sent": 2543.0,
+            "Time": "1554841017079.072"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 10.218422728475227,
+            "Acks Received": 2509.0,
+            "Target Rate": 27617.99816345218,
+            "Rtt Inflation": -0.01802012217031945,
+            "Throughput": 27617.99816345218,
+            "Packets Sent": 2517.0,
+            "Time": "1554841018080.9521"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 8.419178522126021,
+            "Acks Received": 2371.0,
+            "Target Rate": 25865.708468079516,
+            "Rtt Inflation": -0.01796223100570895,
+            "Throughput": 25865.708468079516,
+            "Packets Sent": 2363.0,
+            "Time": "1554841019082.832"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 5.116819835038698,
+            "Acks Received": 2295.0,
+            "Target Rate": 25046.288976723277,
+            "Rtt Inflation": -0.008745558350301256,
+            "Throughput": 25046.288976723277,
+            "Packets Sent": 2292.0,
+            "Time": "1554841020084.7122"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.2801677059856407,
+            "Acks Received": 2335.0,
+            "Target Rate": 25483.962151155338,
+            "Rtt Inflation": -0.023876112907733008,
+            "Throughput": 25483.962151155338,
+            "Packets Sent": 2337.0,
+            "Time": "1554841021086.592"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.16540322029822,
+            "Acks Received": 2118.0,
+            "Target Rate": 23305.46572443761,
+            "Rtt Inflation": -0.01067293488242085,
+            "Throughput": 23305.46572443761,
+            "Packets Sent": 2139.0,
+            "Time": "1554841022088.4722"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 8.64863213804714,
+            "Acks Received": 2218.0,
+            "Target Rate": 23948.25727632006,
+            "Rtt Inflation": -0.03325847406875011,
+            "Throughput": 23948.25727632006,
+            "Packets Sent": 2196.0,
+            "Time": "1554841023090.352"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 5.485364496151996,
+            "Acks Received": 2254.0,
+            "Target Rate": 24588.972731264752,
+            "Rtt Inflation": -0.008905258114744108,
+            "Throughput": 24588.972731264752,
+            "Packets Sent": 2254.0,
+            "Time": "1554841024092.2322"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 15.069342548865276,
+            "Acks Received": 2357.0,
+            "Target Rate": 25800.327384516615,
+            "Rtt Inflation": -0.007096658282428891,
+            "Throughput": 25800.327384516615,
+            "Packets Sent": 2358.0,
+            "Time": "1554841025094.112"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.254008146945647,
+            "Acks Received": 2499.0,
+            "Target Rate": 27365.001796621822,
+            "Rtt Inflation": 0.008151674851279442,
+            "Throughput": 27365.001796621822,
+            "Packets Sent": 2498.0,
+            "Time": "1554841026095.9922"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.1500208237133234,
+            "Acks Received": 2358.0,
+            "Target Rate": 25769.952489319578,
+            "Rtt Inflation": 0.0028246895835828093,
+            "Throughput": 25769.952489319578,
+            "Packets Sent": 2361.0,
+            "Time": "1554841027097.872"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.5856863011063007,
+            "Acks Received": 2398.0,
+            "Target Rate": 26357.42404279903,
+            "Rtt Inflation": 0.004687188086397483,
+            "Throughput": 26357.42404279903,
+            "Packets Sent": 2404.0,
+            "Time": "1554841028099.7522"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.527308623136123,
+            "Acks Received": 2362.0,
+            "Target Rate": 25811.05920868717,
+            "Rtt Inflation": 0.003835788717211571,
+            "Throughput": 25811.05920868717,
+            "Packets Sent": 2362.0,
+            "Time": "1554841029101.632"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.180193158970659,
+            "Acks Received": 2489.0,
+            "Target Rate": 27195.081247254642,
+            "Rtt Inflation": -0.0003952569169960381,
+            "Throughput": 27195.081247254642,
+            "Packets Sent": 2482.0,
+            "Time": "1554841030103.5122"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.16557236938987,
+            "Acks Received": 2468.0,
+            "Target Rate": 27239.605541581306,
+            "Rtt Inflation": 0.011531321116301134,
+            "Throughput": 27239.605541581306,
+            "Packets Sent": 2484.0,
+            "Time": "1554841031105.392"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.8763918482443485,
+            "Acks Received": 2339.0,
+            "Target Rate": 25409.12684153742,
+            "Rtt Inflation": -0.002337605302032129,
+            "Throughput": 25409.12684153742,
+            "Packets Sent": 2322.0,
+            "Time": "1554841032107.2722"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.9710408068783063,
+            "Acks Received": 2475.0,
+            "Target Rate": 27082.429033416658,
+            "Rtt Inflation": 0.006123487842855312,
+            "Throughput": 27082.429033416658,
+            "Packets Sent": 2475.0,
+            "Time": "1554841033109.152"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.944504666907166,
+            "Acks Received": 2396.0,
+            "Target Rate": 26266.36323711372,
+            "Rtt Inflation": 0.0022118417375333967,
+            "Throughput": 26266.36323711372,
+            "Packets Sent": 2397.0,
+            "Time": "1554841034111.0322"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 16.209368917967552,
+            "Acks Received": 2577.0,
+            "Target Rate": 29443.78169042144,
+            "Rtt Inflation": 0.03505709266578768,
+            "Throughput": 29443.78169042144,
+            "Packets Sent": 2672.0,
+            "Time": "1554841035112.912"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 28.047792748917754,
+            "Acks Received": 2539.0,
+            "Target Rate": 26909.761648101055,
+            "Rtt Inflation": -0.024728510400446706,
+            "Throughput": 26909.761648101055,
+            "Packets Sent": 2459.0,
+            "Time": "1554841036114.7922"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.7213247294372294,
+            "Acks Received": 2505.0,
+            "Target Rate": 27274.675609852948,
+            "Rtt Inflation": 0.0024923144488361317,
+            "Throughput": 27274.675609852948,
+            "Packets Sent": 2488.0,
+            "Time": "1554841037116.672"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.362559082491582,
+            "Acks Received": 2550.0,
+            "Target Rate": 27972.723280232625,
+            "Rtt Inflation": -0.0031241266419131416,
+            "Throughput": 27972.723280232625,
+            "Packets Sent": 2551.0,
+            "Time": "1554841038118.552"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.5816820971620977,
+            "Acks Received": 2502.0,
+            "Target Rate": 27422.334012056806,
+            "Rtt Inflation": 0.0020780931848125156,
+            "Throughput": 27422.334012056806,
+            "Packets Sent": 2503.0,
+            "Time": "1554841039120.4321"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.5625430278980277,
+            "Acks Received": 2492.0,
+            "Target Rate": 27331.337086277275,
+            "Rtt Inflation": -0.0008963149279354659,
+            "Throughput": 27331.337086277275,
+            "Packets Sent": 2492.0,
+            "Time": "1554841040122.312"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.159900742161878,
+            "Acks Received": 2470.0,
+            "Target Rate": 27066.938156265704,
+            "Rtt Inflation": 0.0005170279873837165,
+            "Throughput": 27066.938156265704,
+            "Packets Sent": 2468.0,
+            "Time": "1554841041124.1921"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 6.958007030897953,
+            "Acks Received": 2418.0,
+            "Target Rate": 26451.838543537644,
+            "Rtt Inflation": -0.00495767956242255,
+            "Throughput": 26451.838543537644,
+            "Packets Sent": 2416.0,
+            "Time": "1554841042126.072"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.289357730880231,
+            "Acks Received": 2362.0,
+            "Target Rate": 25991.83934203647,
+            "Rtt Inflation": 0.009459216672655228,
+            "Throughput": 25991.83934203647,
+            "Packets Sent": 2374.0,
+            "Time": "1554841043127.9521"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.2792985064935056,
+            "Acks Received": 2435.0,
+            "Target Rate": 26632.618676886945,
+            "Rtt Inflation": 0.0009761648101568846,
+            "Throughput": 26632.618676886945,
+            "Packets Sent": 2428.0,
+            "Time": "1554841044129.832"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.998202157287157,
+            "Acks Received": 2471.0,
+            "Target Rate": 27067.608895276364,
+            "Rtt Inflation": 0.001088952768794643,
+            "Throughput": 27067.608895276364,
+            "Packets Sent": 2469.0,
+            "Time": "1554841045131.7122"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.01550136002886,
+            "Acks Received": 2520.0,
+            "Target Rate": 27682.037768993763,
+            "Rtt Inflation": 0.0031959915359124212,
+            "Throughput": 27682.037768993763,
+            "Packets Sent": 2520.0,
+            "Time": "1554841046133.592"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.788823050745551,
+            "Acks Received": 2179.0,
+            "Target Rate": 23731.736335688453,
+            "Rtt Inflation": 0.006868087994570073,
+            "Throughput": 23731.736335688453,
+            "Packets Sent": 2179.0,
+            "Time": "1554841047135.4722"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.512563520923521,
+            "Acks Received": 2445.0,
+            "Target Rate": 26890.917075896792,
+            "Rtt Inflation": 0.00407833273445913,
+            "Throughput": 26890.917075896792,
+            "Packets Sent": 2459.0,
+            "Time": "1554841048137.352"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.5374710654160655,
+            "Acks Received": 2417.0,
+            "Target Rate": 26324.366191559366,
+            "Rtt Inflation": 0.003194993412384651,
+            "Throughput": 26324.366191559366,
+            "Packets Sent": 2403.0,
+            "Time": "1554841049139.2322"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.315638103655604,
+            "Acks Received": 2323.0,
+            "Target Rate": 25421.93476264574,
+            "Rtt Inflation": 0.002788757136583183,
+            "Throughput": 25421.93476264574,
+            "Packets Sent": 2325.0,
+            "Time": "1554841050141.112"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 6.6903402943555745,
+            "Acks Received": 2404.0,
+            "Target Rate": 26269.04619315636,
+            "Rtt Inflation": -0.0013744160977362334,
+            "Throughput": 26269.04619315636,
+            "Packets Sent": 2401.0,
+            "Time": "1554841051142.9922"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.621965426887927,
+            "Acks Received": 2424.0,
+            "Target Rate": 26508.436140094138,
+            "Rtt Inflation": -0.003965544775809751,
+            "Throughput": 26508.436140094138,
+            "Packets Sent": 2424.0,
+            "Time": "1554841052144.872"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 11.529065811688312,
+            "Acks Received": 2480.0,
+            "Target Rate": 27182.94406522213,
+            "Rtt Inflation": -0.006323112548424061,
+            "Throughput": 27182.94406522213,
+            "Packets Sent": 2480.0,
+            "Time": "1554841053146.7522"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.016254598364598,
+            "Acks Received": 2372.0,
+            "Target Rate": 25938.59544063339,
+            "Rtt Inflation": 0.0005379885814681249,
+            "Throughput": 25938.59544063339,
+            "Packets Sent": 2371.0,
+            "Time": "1554841054148.632"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 31.27015690596441,
+            "Acks Received": 2610.0,
+            "Target Rate": 30002.219826797085,
+            "Rtt Inflation": 0.019406515750435508,
+            "Throughput": 30002.219826797085,
+            "Packets Sent": 2708.0,
+            "Time": "1554841055150.5122"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.90089072631073,
+            "Acks Received": 2632.0,
+            "Target Rate": 29729.35680926939,
+            "Rtt Inflation": 0.00697089471794679,
+            "Throughput": 29729.35680926939,
+            "Packets Sent": 2631.0,
+            "Time": "1554841056152.392"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.74866855459356,
+            "Acks Received": 2595.0,
+            "Target Rate": 29601.213718280145,
+            "Rtt Inflation": -0.0007955044516327477,
+            "Throughput": 29601.213718280145,
+            "Packets Sent": 2593.0,
+            "Time": "1554841057154.2722"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.81840397898398,
+            "Acks Received": 2598.0,
+            "Target Rate": 29605.238152344114,
+            "Rtt Inflation": -0.01046133269455917,
+            "Throughput": 29605.238152344114,
+            "Packets Sent": 2599.0,
+            "Time": "1554841058156.152"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.5548564057239,
+            "Acks Received": 2602.0,
+            "Target Rate": 29709.713738242874,
+            "Rtt Inflation": -0.000241545893720334,
+            "Throughput": 29709.713738242874,
+            "Packets Sent": 2602.0,
+            "Time": "1554841059158.0322"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.675051357049384,
+            "Acks Received": 2598.0,
+            "Target Rate": 29680.328981585317,
+            "Rtt Inflation": 0.005208208567904722,
+            "Throughput": 29680.328981585317,
+            "Packets Sent": 2598.0,
+            "Time": "1554841060159.912"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.7893718497748,
+            "Acks Received": 2589.0,
+            "Target Rate": 29560.170878818237,
+            "Rtt Inflation": 0.0036790833233608586,
+            "Throughput": 29560.170878818237,
+            "Packets Sent": 2588.0,
+            "Time": "1554841061161.7922"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.66199602573353,
+            "Acks Received": 2602.0,
+            "Target Rate": 29709.905377960204,
+            "Rtt Inflation": 0.010189843095005665,
+            "Throughput": 29709.905377960204,
+            "Packets Sent": 2602.0,
+            "Time": "1554841062163.672"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.84489898037148,
+            "Acks Received": 2590.0,
+            "Target Rate": 29575.533996157676,
+            "Rtt Inflation": -0.02014412903745757,
+            "Throughput": 29575.533996157676,
+            "Packets Sent": 2591.0,
+            "Time": "1554841063165.552"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.61291995430495,
+            "Acks Received": 2602.0,
+            "Target Rate": 29721.37182104723,
+            "Rtt Inflation": -0.0029604343833662928,
+            "Throughput": 29721.37182104723,
+            "Packets Sent": 2603.0,
+            "Time": "1554841064167.4321"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.56942409757751,
+            "Acks Received": 2607.0,
+            "Target Rate": 29696.29895802964,
+            "Rtt Inflation": -0.009001077973431363,
+            "Throughput": 29696.29895802964,
+            "Packets Sent": 2606.0,
+            "Time": "1554841065169.312"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.74598019119769,
+            "Acks Received": 2579.0,
+            "Target Rate": 29443.430351010236,
+            "Rtt Inflation": -0.023400007985043735,
+            "Throughput": 29443.430351010236,
+            "Packets Sent": 2579.0,
+            "Time": "1554841066171.1921"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.82807639603663,
+            "Acks Received": 2601.0,
+            "Target Rate": 29690.390066745244,
+            "Rtt Inflation": 0.004288936798828377,
+            "Throughput": 29690.390066745244,
+            "Packets Sent": 2601.0,
+            "Time": "1554841067173.072"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.70942312409813,
+            "Acks Received": 2595.0,
+            "Target Rate": 29621.399768505766,
+            "Rtt Inflation": -0.00625923264264678,
+            "Throughput": 29621.399768505766,
+            "Packets Sent": 2595.0,
+            "Time": "1554841068174.9521"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.656117770562766,
+            "Acks Received": 2600.0,
+            "Target Rate": 29686.301752775496,
+            "Rtt Inflation": -3.992494111071051e-06,
+            "Throughput": 29686.301752775496,
+            "Packets Sent": 2599.0,
+            "Time": "1554841069176.832"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.6200629040404,
+            "Acks Received": 2673.0,
+            "Target Rate": 29619.86665076711,
+            "Rtt Inflation": 0.021351858506059543,
+            "Throughput": 29619.86665076711,
+            "Packets Sent": 2677.0,
+            "Time": "1554841070178.7122"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 19.206818657079452,
+            "Acks Received": 2390.0,
+            "Target Rate": 25480.544576257333,
+            "Rtt Inflation": -0.011309737693163822,
+            "Throughput": 25480.544576257333,
+            "Packets Sent": 2348.0,
+            "Time": "1554841071180.592"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 17.079296055017966,
+            "Acks Received": 2470.0,
+            "Target Rate": 26437.62526456559,
+            "Rtt Inflation": -0.012045354733130422,
+            "Throughput": 26437.62526456559,
+            "Packets Sent": 2415.0,
+            "Time": "1554841072182.4722"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.88218558529013,
+            "Acks Received": 2422.0,
+            "Target Rate": 26706.112508547543,
+            "Rtt Inflation": 0.009331456861123313,
+            "Throughput": 26706.112508547543,
+            "Packets Sent": 2441.0,
+            "Time": "1554841073184.352"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.5362647558922555,
+            "Acks Received": 2200.0,
+            "Target Rate": 23787.727073159127,
+            "Rtt Inflation": -0.002698926019090551,
+            "Throughput": 23787.727073159127,
+            "Packets Sent": 2182.0,
+            "Time": "1554841074186.2322"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.239187902837903,
+            "Acks Received": 2128.0,
+            "Target Rate": 23167.868407449183,
+            "Rtt Inflation": 0.0062322833073969325,
+            "Throughput": 23167.868407449183,
+            "Packets Sent": 2127.0,
+            "Time": "1554841075188.112"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.7179663443963444,
+            "Acks Received": 2471.0,
+            "Target Rate": 27039.980836092556,
+            "Rtt Inflation": -0.004112268934413102,
+            "Throughput": 27039.980836092556,
+            "Packets Sent": 2472.0,
+            "Time": "1554841076189.9922"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.5485748628055442,
+            "Acks Received": 2467.0,
+            "Target Rate": 26967.09386360067,
+            "Rtt Inflation": 0.0003223938994697574,
+            "Throughput": 26967.09386360067,
+            "Packets Sent": 2464.0,
+            "Time": "1554841077191.872"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.5132822955747955,
+            "Acks Received": 2396.0,
+            "Target Rate": 26245.44256803461,
+            "Rtt Inflation": 0.0032528845770029772,
+            "Throughput": 26245.44256803461,
+            "Packets Sent": 2398.0,
+            "Time": "1554841078193.7522"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.249756491101491,
+            "Acks Received": 2517.0,
+            "Target Rate": 27615.922066580606,
+            "Rtt Inflation": -0.002145965584705869,
+            "Throughput": 27615.922066580606,
+            "Packets Sent": 2518.0,
+            "Time": "1554841079195.632"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 6.921436901154401,
+            "Acks Received": 2390.0,
+            "Target Rate": 26646.76807608044,
+            "Rtt Inflation": 0.016519942508124098,
+            "Throughput": 26646.76807608044,
+            "Packets Sent": 2433.0,
+            "Time": "1554841080197.5122"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 5.056838211880711,
+            "Acks Received": 2274.0,
+            "Target Rate": 24554.573402062615,
+            "Rtt Inflation": -0.008332335209825388,
+            "Throughput": 24554.573402062615,
+            "Packets Sent": 2251.0,
+            "Time": "1554841081199.392"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 5.572315887992479,
+            "Acks Received": 2452.0,
+            "Target Rate": 26623.835189906396,
+            "Rtt Inflation": -0.0021629336846779633,
+            "Throughput": 26623.835189906396,
+            "Packets Sent": 2431.0,
+            "Time": "1554841082201.2722"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.858281114827933,
+            "Acks Received": 2257.0,
+            "Target Rate": 24642.21663278906,
+            "Rtt Inflation": 0.0019443446320962876,
+            "Throughput": 24642.21663278906,
+            "Packets Sent": 2257.0,
+            "Time": "1554841083203.152"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 8.009514966329965,
+            "Acks Received": 2284.0,
+            "Target Rate": 24931.62454591307,
+            "Rtt Inflation": 0.0009701760689926302,
+            "Throughput": 24931.62454591307,
+            "Packets Sent": 2282.0,
+            "Time": "1554841084205.0322"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 6.003112522300931,
+            "Acks Received": 2405.0,
+            "Target Rate": 26772.898950037703,
+            "Rtt Inflation": 0.009160777737874628,
+            "Throughput": 26772.898950037703,
+            "Packets Sent": 2444.0,
+            "Time": "1554841085206.912"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 36.49809470999008,
+            "Acks Received": 2662.0,
+            "Target Rate": 30098.646544567902,
+            "Rtt Inflation": 0.01628438535557033,
+            "Throughput": 30098.646544567902,
+            "Packets Sent": 2723.0,
+            "Time": "1554841086208.7922"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 38.69855812539313,
+            "Acks Received": 2698.0,
+            "Target Rate": 29695.97955850075,
+            "Rtt Inflation": 0.016694614125483894,
+            "Throughput": 29695.97955850075,
+            "Packets Sent": 2698.0,
+            "Time": "1554841087210.672"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 19.828844116161616,
+            "Acks Received": 2555.0,
+            "Target Rate": 26800.463129380605,
+            "Rtt Inflation": -0.034763644348707275,
+            "Throughput": 26800.463129380605,
+            "Packets Sent": 2457.0,
+            "Time": "1554841088212.552"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.67980879159561,
+            "Acks Received": 2379.0,
+            "Target Rate": 26325.036930633116,
+            "Rtt Inflation": 0.0034984229648344425,
+            "Throughput": 26325.036930633116,
+            "Packets Sent": 2404.0,
+            "Time": "1554841089214.4321"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 5.4031153823953835,
+            "Acks Received": 2217.0,
+            "Target Rate": 23971.190162551506,
+            "Rtt Inflation": -0.002533237513480692,
+            "Throughput": 23971.190162551506,
+            "Packets Sent": 2198.0,
+            "Time": "1554841090216.312"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.712412723665224,
+            "Acks Received": 2522.0,
+            "Target Rate": 27730.586497450844,
+            "Rtt Inflation": -0.0006527727871616858,
+            "Throughput": 27730.586497450844,
+            "Packets Sent": 2528.0,
+            "Time": "1554841091218.1921"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.622789108946608,
+            "Acks Received": 2452.0,
+            "Target Rate": 26683.1796223735,
+            "Rtt Inflation": 0.001354453627184114,
+            "Throughput": 26683.1796223735,
+            "Packets Sent": 2439.0,
+            "Time": "1554841092220.072"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 6.480504912217412,
+            "Acks Received": 2366.0,
+            "Target Rate": 25968.906455924716,
+            "Rtt Inflation": 0.012878787878818496,
+            "Throughput": 25968.906455924716,
+            "Packets Sent": 2372.0,
+            "Time": "1554841093221.9521"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 25.039406458633955,
+            "Acks Received": 2532.0,
+            "Target Rate": 28904.858865401893,
+            "Rtt Inflation": 0.03714217271538362,
+            "Throughput": 28904.858865401893,
+            "Packets Sent": 2625.0,
+            "Time": "1554841094223.832"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 19.609860126262628,
+            "Acks Received": 2280.0,
+            "Target Rate": 23743.873517843014,
+            "Rtt Inflation": -0.03782987982601711,
+            "Throughput": 23743.873517843014,
+            "Packets Sent": 2181.0,
+            "Time": "1554841095225.7122"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.581647227032226,
+            "Acks Received": 2510.0,
+            "Target Rate": 27494.55024560376,
+            "Rtt Inflation": 5.9887411666174264e-06,
+            "Throughput": 27494.55024560376,
+            "Packets Sent": 2510.0,
+            "Time": "1554841096227.592"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.380947296777297,
+            "Acks Received": 2256.0,
+            "Target Rate": 24659.11286786715,
+            "Rtt Inflation": 0.0074450033936377,
+            "Throughput": 24659.11286786715,
+            "Packets Sent": 2262.0,
+            "Time": "1554841097229.4722"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.740950048100048,
+            "Acks Received": 2584.0,
+            "Target Rate": 28324.094702027654,
+            "Rtt Inflation": -0.0022517666786495026,
+            "Throughput": 28324.094702027654,
+            "Packets Sent": 2580.0,
+            "Time": "1554841098231.352"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.4685832227032223,
+            "Acks Received": 2369.0,
+            "Target Rate": 25893.40040729597,
+            "Rtt Inflation": 0.002435421407759221,
+            "Throughput": 25893.40040729597,
+            "Packets Sent": 2368.0,
+            "Time": "1554841099233.2322"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.60867008056758,
+            "Acks Received": 2502.0,
+            "Target Rate": 27391.35225782054,
+            "Rtt Inflation": 0.006135465325203233,
+            "Throughput": 27391.35225782054,
+            "Packets Sent": 2501.0,
+            "Time": "1554841100235.112"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 4.024230824915826,
+            "Acks Received": 2482.0,
+            "Target Rate": 27235.51722767684,
+            "Rtt Inflation": 0.009226653890707448,
+            "Throughput": 27235.51722767684,
+            "Packets Sent": 2482.0,
+            "Time": "1554841101236.9922"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.298572077922078,
+            "Acks Received": 2289.0,
+            "Target Rate": 24926.194753922002,
+            "Rtt Inflation": 0.0027258753543403335,
+            "Throughput": 24926.194753922002,
+            "Packets Sent": 2290.0,
+            "Time": "1554841102238.872"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 7.8792051862783685,
+            "Acks Received": 2536.0,
+            "Target Rate": 27835.796702266045,
+            "Rtt Inflation": 0.0017067912324869882,
+            "Throughput": 27835.796702266045,
+            "Packets Sent": 2540.0,
+            "Time": "1554841103240.7522"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.343129280904281,
+            "Acks Received": 2568.0,
+            "Target Rate": 28187.902742910475,
+            "Rtt Inflation": -0.001974288337929393,
+            "Throughput": 28187.902742910475,
+            "Packets Sent": 2566.0,
+            "Time": "1554841104242.632"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.9305758826358823,
+            "Acks Received": 2385.0,
+            "Target Rate": 26095.708068892643,
+            "Rtt Inflation": -0.004445642192688337,
+            "Throughput": 26095.708068892643,
+            "Packets Sent": 2384.0,
+            "Time": "1554841105244.5122"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.6087815367965366,
+            "Acks Received": 2498.0,
+            "Target Rate": 27368.419371646494,
+            "Rtt Inflation": 0.0016069788797099668,
+            "Throughput": 27368.419371646494,
+            "Packets Sent": 2499.0,
+            "Time": "1554841106246.392"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.704409072871573,
+            "Acks Received": 2229.0,
+            "Target Rate": 24313.107358224453,
+            "Rtt Inflation": 0.002145965584705861,
+            "Throughput": 24313.107358224453,
+            "Packets Sent": 2229.0,
+            "Time": "1554841107248.2722"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.416350668590668,
+            "Acks Received": 2508.0,
+            "Target Rate": 27493.20876758243,
+            "Rtt Inflation": 0.00229069349623254,
+            "Throughput": 27493.20876758243,
+            "Packets Sent": 2508.0,
+            "Time": "1554841108250.152"
+        },
+        {
+            "Loss Rate": 0.0,
+            "Avg Rtt": 3.7750602413019076,
+            "Acks Received": 2309.0,
+            "Target Rate": 28060.774632646353,
+            "Rtt Inflation": 0.006097425728533771,
+            "Throughput": 28060.774632646353,
+            "Packets Sent": 2301.0,
+            "Time": "1554841109252.0322"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Rtt Fairness With PCC Vivace</title>
+  <link rel="stylesheet" href="../../style.css">
+  <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script src="../../chart.js"></script>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+  <header>
+    <div class="nav">
+      <ul>
+        <li class='left'><a href="../../index.html">Home</a></li>
+        <li class='left'><a href="../../summary/index.html">Summary</a></li>
+      </ul>
+    </div>
+  </header>
+  <h3>PCC-Vivace Results</h3>
+  <hr />
+  <div id='rtt4_vivace'></div>
+  <script>
+  var allFiles = getAllPointsWithExtension("rtt_fairness4/vivace/", ".json", "Time", "Throughput");
+  var allFiles2 = getAllPointsWithExtension("rtt_fairness4/vivace/", ".json", "Time", "Avg Rtt");
+
+  var titles = [];
+  var points = [];
+  for (var i = 0; i < allFiles.length; i++) {
+    var title = allFiles[i]["title"];
+    var dataPoints = allFiles[i]["dataPoints"];
+    titles.push(title);
+    points.push(dataPoints);
+  }
+
+  var titles2 = [];
+  var points2 = [];
+  for (var i = 0; i < allFiles2.length; i++) {
+    var title = allFiles2[i]["title"] + 'lat';
+    var dataPoints = allFiles2[i]["dataPoints"];
+    titles2.push(title);
+    points2.push(dataPoints);
+  }
+
+  window.onload = function() {
+    for (var i = 0; i < allFiles.length; i++) {
+      renderChartwithData(titles[i], points[i], titles[i].split(".json")[0], "Time(ms)", "Throughput");
+      renderChartwithData(titles2[i], points2[i], titles2[i].split(".json")[0], "Time(ms)", "Latency");
+    }
+  }
+  
+  document.getElementById('rtt4_vivace').innerHTML += '<hr />';
+  for (var i = 0; i < allFiles.length; i++) {
+    var id = titles[i];
+    var s = "<div class='timechart' id='" + id + "'></div>";
+    document.getElementById('rtt4_vivace').innerHTML += s;
+
+    document.getElementById('rtt4_vivace').innerHTML += '<br />';
+    document.getElementById('rtt4_vivace').innerHTML += '<br />';
+    id = titles2[i];
+    s = "<div class='timechart' id='" + id + "'></div>";
+    document.getElementById('rtt4_vivace').innerHTML += s;
+    document.getElementById('rtt4_vivace').innerHTML += '<hr />';
+    document.getElementById('rtt4_vivace').innerHTML += '<hr />';
+
+    document.getElementById('rtt4_vivace').innerHTML += '<br />';
+    document.getElementById('rtt4_vivace').innerHTML += '<br />';
+    document.getElementById('rtt4_vivace').innerHTML += '<br />';
+  }
+
+  </script>
+  <hr />
+  <br /><br />
+
+  <a href="#" id="scroll" style="display: none;"><span></span></a>
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+          $('#scroll').fadeIn();
+        } else {
+          $('#scroll').fadeOut();
+        }
+      });
+      $('#scroll').click(function() {
+        $("html, body").animate({
+          scrollTop: 0
+        }, 600);
+        return false;
+      });
+    });
+  </script>
+
+</body>
+
+</html>

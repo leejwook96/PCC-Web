@@ -1,0 +1,120 @@
+{
+    "Metrics": {
+        "latency_test": {
+            "vivace": [
+                {
+                    "Link Utilization": 0.08686488502318465,
+                    "95 Queueing delay": -7.035432600554813,
+                    "Avg Loss": 0.0,
+                    "Overall": 7.034183860159724,
+                    "name": "latency_test.5ms"
+                },
+                {
+                    "Link Utilization": 0.08573866019909893,
+                    "95 Queueing delay": 232.7004626662987,
+                    "Avg Loss": 0.0,
+                    "Overall": 4.584071851494964,
+                    "name": "latency_test.256ms"
+                },
+                {
+                    "Link Utilization": 0.07907758140838365,
+                    "95 Queueing delay": -8.863801867866982,
+                    "Avg Loss": 0.0,
+                    "Overall": 7.023224766487718,
+                    "name": "latency_test.1ms"
+                },
+                {
+                    "Link Utilization": 0.08940536288654441,
+                    "95 Queueing delay": 69.80071641182363,
+                    "Avg Loss": 0.0,
+                    "Overall": 5.593787780814888,
+                    "name": "latency_test.96ms"
+                },
+                {
+                    "Link Utilization": 0.08378642066041264,
+                    "95 Queueing delay": 372.314389967161,
+                    "Avg Loss": 0.0,
+                    "Overall": 4.134819576827659,
+                    "name": "latency_test.384ms"
+                },
+                {
+                    "Link Utilization": 0.08376632806914566,
+                    "95 Queueing delay": 486.61446742228406,
+                    "Avg Loss": 0.0,
+                    "Overall": 3.884516703032753,
+                    "name": "latency_test.512ms"
+                },
+                {
+                    "Link Utilization": 0.08865833989825896,
+                    "95 Queueing delay": 12.451570673547025,
+                    "Avg Loss": 0.0,
+                    "Overall": 6.44020866681044,
+                    "name": "latency_test.32ms"
+                },
+                {
+                    "Link Utilization": 0.08309238650607864,
+                    "95 Queueing delay": -13.263759882162217,
+                    "Avg Loss": 0.0,
+                    "Overall": 7.306159118696901,
+                    "name": "latency_test.2ms"
+                },
+                {
+                    "Link Utilization": 0.08955339174427014,
+                    "95 Queueing delay": 13.801048566118016,
+                    "Avg Loss": 0.0,
+                    "Overall": 6.41895972090868,
+                    "name": "latency_test.8ms"
+                },
+                {
+                    "Link Utilization": 0.08950089981622303,
+                    "95 Queueing delay": -10.824701240216056,
+                    "Avg Loss": 0.0,
+                    "Overall": 7.244408225874303,
+                    "name": "latency_test.16ms"
+                },
+                {
+                    "Link Utilization": 0.08722188963712128,
+                    "95 Queueing delay": 169.20961693451562,
+                    "Avg Loss": 0.0,
+                    "Overall": 4.8778801802486536,
+                    "name": "latency_test.192ms"
+                },
+                {
+                    "Link Utilization": 0.08669834545451874,
+                    "95 Queueing delay": 8.742324484487732,
+                    "Avg Loss": 0.0,
+                    "Overall": 6.509284616331357,
+                    "name": "latency_test.3ms"
+                },
+                {
+                    "Link Utilization": 0.08869311087971281,
+                    "95 Queueing delay": 20.448568663131255,
+                    "Avg Loss": 0.0,
+                    "Overall": 6.268010318306145,
+                    "name": "latency_test.48ms"
+                },
+                {
+                    "Link Utilization": 0.08551086283897591,
+                    "95 Queueing delay": -12.320825815019562,
+                    "Avg Loss": 0.0,
+                    "Overall": 7.28003854615263,
+                    "name": "latency_test.4ms"
+                },
+                {
+                    "Link Utilization": 0.08895469642024204,
+                    "95 Queueing delay": 101.49615341529838,
+                    "Avg Loss": 0.0,
+                    "Overall": 5.312932086207766,
+                    "name": "latency_test.128ms"
+                },
+                {
+                    "Link Utilization": 0.08669347483064684,
+                    "95 Queueing delay": 48.13901274184488,
+                    "Avg Loss": 0.0,
+                    "Overall": 5.807671639072973,
+                    "name": "latency_test.64ms"
+                }
+            ]
+        }
+    }
+}

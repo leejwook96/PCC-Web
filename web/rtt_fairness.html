@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang='en'>
+
+<head>
+  <title>PCC</title>
+
+  <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script src="../../chart.js"></script>
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="../../style.css">
+</head>
+
+<body>
+  <header>
+    <div class="nav">
+      <ul>
+        <li class='left'><a href="../../index.html">Home</a></li>
+        <li class='left'><a href="../../summary/index.html">Summary</a></li>
+      </ul>
+    </div>
+  </header>
+  <script>
+    var rtt3_points = getJainIndexCoord("jain_rtt_fairness3.json");
+    var rtt4_points = getJainIndexCoord("jain_rtt_fairness4.json");
+    window.onload = function() {
+      renderRttFairnessChart('rtt_fairness_3_star', rtt3_points);
+      renderRttFairnessChart('rtt_fairness_4_star', rtt4_points);
+    }
+  </script>
+  <div>
+    <ul>
+      <li><a href="#3-star">Rtt Fairness(3-star-topology)</a></li>
+      <li><a href="#4-star">Rtt Fairness(4-star-topology)</a></li>
+    </ul>
+  </div>
+  <div id='3-star'>
+    <h3>Rtt Fairness with 3-star topology<span style="font-weight: normal;"> (<a href="rtt3_results.html" title="rtt3 graphs">more details...</a>)</span></h3>
+    <div id="rtt_fairness_3_star" class='fairness-graph'></div>
+  </div>
+
+  <div id='4-star'>
+    <h3>Rtt Fairness with 4-star topology<span style="font-weight: normal;"> (<a href="rtt4_results.html" title="rtt4 graphs">more details...</a>)</span></h3>
+    <div id="rtt_fairness_4_star" class='fairness-graph'></div>
+  </div>
+
+
+  <footer>
+    <hr />
+    <p class='center'>
+      Contact: username@domain.com
+    </p>
+  </footer>
+</body>
+
+</html>

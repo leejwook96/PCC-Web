@@ -1,0 +1,34 @@
+{
+    "Events": [
+        {
+            "Loss Rate": 0.08823529411764706,
+            "Avg Rtt": 13.328999999999999,
+            "Acks Received": 15.0,
+            "Target Rate": 18.553658022348742,
+            "Rtt Inflation": 0.0,
+            "Throughput": 15.492616799806356,
+            "Packets Sent": 19.0,
+            "Time": "1554845166167.117"
+        },
+        {
+            "Loss Rate": 0.08823529411764706,
+            "Avg Rtt": 14.228735294117646,
+            "Acks Received": 16.0,
+            "Target Rate": 18.241306877191303,
+            "Rtt Inflation": 0.0,
+            "Throughput": 15.149030540133186,
+            "Packets Sent": 18.0,
+            "Time": "1554845167191.605"
+        },
+        {
+            "Loss Rate": 0.25925925925925924,
+            "Avg Rtt": 11.180703703703704,
+            "Acks Received": 10.0,
+            "Target Rate": 21.869207585389674,
+            "Rtt Inflation": 0.0,
+            "Throughput": 12.783259829589284,
+            "Packets Sent": 17.0,
+            "Time": "1554845168216.093"
+        }
+    ]
+}
