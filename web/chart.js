@@ -17,7 +17,7 @@ function renderRttFairnessChart(id, chartData) {
       title: "Jain's Fairness Index",
       maximum: 1.1
     },
-    data: chartData
+    data: chartData,
   });
   chart.render();
 }
@@ -40,7 +40,16 @@ function renderChartwithData(id, chartData, title, x_name, y_name) {
       title: y_name,
       minimum: 0
     },
-    data: chartData
+    data: chartData,
+    options: {
+        elements: {
+            point: {
+                radius: 0,
+                hitRadius: 10,
+                hoverRadius: 10
+            }
+        }
+    }
   });
   chart.render();
 }
