@@ -2,6 +2,14 @@
   box-sizing: border-box;
 }
 
+div.invisible {
+  width: 0px;
+  display: block;
+  line-height:0;
+  height: 0;
+  overflow: hidden;
+}
+
 div.timechart {
   width: 90%;
   height: 250px;

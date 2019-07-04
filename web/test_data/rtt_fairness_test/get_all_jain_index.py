@@ -3,8 +3,8 @@ import json
 from pprint import pprint
 import numpy as np
 
-PATH1 = "/Users/jaewooklee/pcc-web/web/results/rtt_fairness_test/rtt_fairness3/"
-PATH2 = "/Users/jaewooklee/pcc-web/web/results/rtt_fairness_test/rtt_fairness4/"
+PATH1 = "/Users/jaewooklee/pcc-web/web/test_data/rtt_fairness_test/rtt_fairness3/"
+PATH2 = "/Users/jaewooklee/pcc-web/web/test_data/rtt_fairness_test/rtt_fairness4/"
 
 def merge_files_in_path(path, name):
     wrapper = {}

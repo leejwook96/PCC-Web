@@ -2,6 +2,33 @@ $.ajaxSetup({
 async: false
 });
 
+function searchChart(name, dict) {
+  var testname = name.split('-')[0];
+  return dict[testname];
+}
+
+function getNumTrials(titles) {
+  var ret = {};
+  for (var i = 0; i < titles.length; i++) {
+    var title = titles[i];
+    title = title.split('-')[0];
+    if (ret.hasOwnProperty(title)) {
+      ret[title] += 1;
+    } else {
+      ret[title] = 1;
+    }
+  }
+  return ret;
+}
+
+function getIndexOfDataPoints(target, titles) {
+  for (var i = 0; i < titles.length; i++) {
+    if (titles[i].split('.')[0] == target) {
+      return i;
+    }
+  }
+}
+
 function renderRttFairnessChart(id, chartData) {
   var chart = new CanvasJS.Chart(id, {
     animationEnabled: true,
@@ -23,7 +50,6 @@ function renderRttFairnessChart(id, chartData) {
 }
 
 function renderChartwithData(id, chartData, title, x_name, y_name) {
-  // console.log(chartData);
   var chart = new CanvasJS.Chart(id, {
     animationEnabled: true,
     zoomEnabled: true,
@@ -52,6 +78,8 @@ function renderChartwithData(id, chartData, title, x_name, y_name) {
     }
   });
   chart.render();
+
+  return chart;
 }
 
 function getJainIndexCoord(jsonfile) {
@@ -95,19 +123,23 @@ function getAllPointsWithExtension(dir, fileextension, x_axis, y_axis) {
         var name = file[file.length - 1];
         flows = name.split(".json")[0].split("_to_");
         var i = 1
-        // console.log(flows.length)
         var points = new Array();
         $.getJSON(filename, function(data) {
           for (var j = 0; j < flows.length; j++) {
+            var legend = flows[j];
+
+            if (legend.includes('-')) {
+              legend = legend.split('-')[0];
+            }
             var line = {
               type:'line',
               showInLegend: true,
               //toolTipContent: "<b>Time: </b>{x}<br/><b>Throughput: </b>{y}",
-              legendText: flows[j],
+              legendText: legend,
               dataPoints: []
             }
 
-            var allFlowPoint = data['flow'+i]
+            var allFlowPoint = data['flow'+i];
             // console.log(allFlowPoint.length);
             for (var k = 0; k < allFlowPoint.length; k++) {
               var currData = allFlowPoint[k];

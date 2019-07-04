@@ -4,7 +4,7 @@ import sys
 import numpy as np
 from pprint import pprint
 
-file = '/Users/jaewooklee/pcc-web/web/results/bandwidth_sweep_test/data/pcc/raw_data/' + \
+file = '/Users/jaewooklee/pcc-web/web/test_data/bandwidth_sweep_test/data/pcc/raw_data/' + \
 'bandwidth_sweep.2mbps/pcc_test_scheme.flow_1.json'
 
 data_dir = sys.argv[1]
