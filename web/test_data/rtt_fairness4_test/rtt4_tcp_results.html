@@ -3,9 +3,9 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Rtt Fairness With PCC Vivace</title>
+  <title>Rtt Fairness With Default TCP</title>
   <link rel="stylesheet" href="../../style.css">
-  <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+  <script src="../../canvasjs-non-commercial-2.3.1/canvasjs.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script src="../../chart.js"></script>
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
@@ -21,12 +21,12 @@
       </ul>
     </div>
   </header>
-  <h3>PCC-Vivace Results</h3>
+  <h3>TCP Results</h3>
   <hr />
-  <div id='rtt3_vivace'></div>
+  <div id='rtt4_tcp'></div>
   <script>
-    var allFiles = getAllPointsWithExtension("rtt_fairness3/vivace/", ".json", "Time", "Throughput");
-    var allFiles2 = getAllPointsWithExtension("rtt_fairness3/vivace/", ".json", "Time", "Avg Rtt");
+    var allFiles = getAllPointsWithExtension("rtt_fairness4/tcp/", ".json", "Time", "Throughput");
+    var allFiles2 = getAllPointsWithExtension("rtt_fairness4/tcp/", ".json", "Time", "Avg Rtt");
 
     var titles = [];
     var points = [];
@@ -53,22 +53,21 @@
       }
     }
 
-    document.getElementById('rtt3_vivace').innerHTML += '<hr />';
+    document.getElementById('rtt4_tcp').innerHTML += '<hr />';
     for (var i = 0; i < allFiles.length; i++) {
       var id = titles[i];
       var s = "<div class='timechart' id='" + id + "'></div>";
-      document.getElementById('rtt3_vivace').innerHTML += s;
+      document.getElementById('rtt4_tcp').innerHTML += s;
       id = titles2[i];
       s = "<div class='timechart' id='" + id + "'></div>";
-      document.getElementById('rtt3_vivace').innerHTML += s;
-      document.getElementById('rtt3_vivace').innerHTML += '<hr />';
-      document.getElementById('rtt3_vivace').innerHTML += '<hr />';
+      document.getElementById('rtt4_tcp').innerHTML += s;
+      document.getElementById('rtt4_tcp').innerHTML += '<hr />';
+      document.getElementById('rtt4_tcp').innerHTML += '<hr />';
 
-      document.getElementById('rtt3_vivace').innerHTML += '<br />';
-      document.getElementById('rtt3_vivace').innerHTML += '<br />';
-      document.getElementById('rtt3_vivace').innerHTML += '<br />';
+      document.getElementById('rtt4_tcp').innerHTML += '<br />';
+      document.getElementById('rtt4_tcp').innerHTML += '<br />';
+      document.getElementById('rtt4_tcp').innerHTML += '<br />';
     }
-
   </script>
   <hr />
   <br /><br />
